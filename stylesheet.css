@@ -171,6 +171,11 @@ color: black;
 
 }
 
+.materialen img:hover {
+    width: 102%;
+
+}
+
 
 .produkte img:hover{
 
